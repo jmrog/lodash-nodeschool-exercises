@@ -1,0 +1,28 @@
+{
+  "name": "LoDash_Nodeschool_Exercises",
+  "version": "1.0.0",
+  "description": "A backup of my solutions to exercises for the Nodeschool LoDash workshop, \"lololodash,\" mostly just for future reference.",
+  "main": "ex1_where.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "lodash": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmrog"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "nodeschool",
+    "lololodash",
+    "solutions",
+    "exercises"
+  ],
+  "author": "Jason Rogers <jason@ascendiv.com>",
+  "license": "MIT"
+}
